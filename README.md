@@ -18,7 +18,7 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * IDE: Jupyter notebook, Pycharm,VScode
 
 # How to run this app
-* First create a virtual environment by using this command:
+## First create a virtual environment by using this command:
 * conda create -n myenv python=3.6
 * Activate the environment using the below command:
 * conda activate myenv
