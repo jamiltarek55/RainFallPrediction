@@ -1,5 +1,4 @@
 # RainPrediction
-# Rain-Prediction
 A project on predicting whether it will rain tomorrow or not by using the Rainfall in Australia dataset
 This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc..
 Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.
@@ -33,17 +32,17 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 ![Landing Page](githubimgs/landingpage.png)
 * About Rainy Brain:
 ![About](githubimgs/about.png)
-* Dashboard:
-![Dashboard](githubimgs/dashboard.png)
 * Developer:
-![Developer](githubimgs/developer.png)
+![Developer](githubimgs/developer.PNG)
 * Predictor:
+* use this for rainy day
 ![Predictor](githubimgs/predictor.png)
+* use this for sunny day
 ![Predictor](githubimgs/predictor1.png)
 * Result:
-![Result](githubimgs/result_f_r.png)
+![Result](githubimgs/result_f_r.PNG)
 * Result:
-![Result](githubimgs/result_f_s.png)
+![Result](githubimgs/result_f_s.PNG)
 
 # Workflow
 
