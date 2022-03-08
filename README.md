@@ -35,9 +35,9 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Developer:
 ![Developer](githubimgs/developer.PNG)
 * Predictor:
-* use this for rainy day
+* use this data for rainy day
 ![Predictor](githubimgs/predictor.png)
-* use this for sunny day
+* use this data for sunny day
 ![Predictor](githubimgs/predictor1.png)
 * Result:
 ![Result](githubimgs/result_f_r.PNG)
